@@ -27,10 +27,11 @@
 
 ## 📁 ディレクトリ構成
 
-escape-game-processing/
-├── escape_game.pde
-├── data/
-└── README.md
+- escape-game-processing/
+  - escape_game.pde
+  - data/
+  - README.md
+
 
 ## 📌 補足
 
